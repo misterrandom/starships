@@ -1,8 +1,14 @@
-# Getting Started with Create React App and Express
+# Starships demo app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Apis use Express with Node.js 
+
+## Installation
+
+In the project directory, run:
+
+### `npm install`
 
 ## Available Scripts
 
